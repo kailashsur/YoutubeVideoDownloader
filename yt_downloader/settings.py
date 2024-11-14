@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-$=@eu^5t7i+f=g9dj_v1((u+$h2g=7gij_s0*cz1t7gm+udsuq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.render.com','127.0.0.1', 'localhost', '.onrender.com', 'https://youtubevideodownloader-3jcf.onrender.com']
+ALLOWED_HOSTS = ['.render.com','127.0.0.1', 'localhost', '.onrender.com', 'https://youtubevideodownloader-3jcf.onrender.com', '.app.github.dev', 'http://localhost:8000']
 
 
 
